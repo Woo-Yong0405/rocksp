@@ -80504,7 +80504,7 @@ A.HY.prototype={
 N(a){return new A.wS(new A.uQ(null),"Flutter Chat App",null)}}
 A.uQ.prototype={
 am(){var s=A.b([],t.Uy),r=$.ao(),q=t.am,p=t.N
-return new A.Ab(new A.Vt("http://localhost:3000"),s,new A.lV(B.hy,r),new A.lV(B.hy,r),new A.bv(null,q),new A.bv(null,q),A.B(p,p),B.j)}}
+return new A.Ab(new A.Vt("http://https://backend-trvy.onrender.com"),s,new A.lV(B.hy,r),new A.lV(B.hy,r),new A.bv(null,q),new A.bv(null,q),A.B(p,p),B.j)}}
 A.Ab.prototype={
 aL(){this.b1()
 $.af.k2$.push(new A.abM(this))},
